@@ -1,3 +1,5 @@
+https://git-lfs.github.com/
+
 # Github-lfs_example-Unity-
 
 git lfs install
