@@ -6,7 +6,7 @@ git lfs install
 
 git lfs track "file extention" i.e ".psd"
 
-# Add this as .gitattributes to your main directory
+# Add this as .gitattributes to your main directory (View raw and copy from unty to end)
 
 ## Unity ##
 
