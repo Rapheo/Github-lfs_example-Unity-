@@ -4,6 +4,11 @@ git lfs install
 
 # To track
 
+# View lfs files
+
+git lfs ls-files
+
+
 git lfs track "file extention" i.e ".psd"
 
 # Add this as .gitattributes to your main directory (View raw and copy from unty to end)
@@ -64,4 +69,3 @@ git lfs track "file extention" i.e ".psd"
 *.rns filter=lfs diff=lfs merge=lfs -text
 *.reason filter=lfs diff=lfs merge=lfs -text
 *.lxo filter=lfs diff=lfs merge=lfs -text
-
