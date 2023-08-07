@@ -7,6 +7,9 @@ git lfs install
 # To track
 git lfs track "file extention" i.e ".psd"
 
+a file will genarate after that named ".gitattributes". Open and Edit the file with following instruction.
+
+
 # View lfs files
 git lfs ls-files
 
